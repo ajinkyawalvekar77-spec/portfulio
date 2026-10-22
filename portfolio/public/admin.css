@@ -1,7 +1,0 @@
-.lg{min-height:100vh;display:grid;place-items:center;padding:20px}.lg form{width:100%;max-width:380px}.lg h2{margin-top:0}
-.adm{padding-top:24px;padding-bottom:60px}.nav .wide{width:auto;padding:0 14px}.nav a{color:var(--mut)}
-.row{display:flex;gap:10px;align-items:center;justify-content:space-between;padding:12px 0;border-bottom:1px solid var(--bd);flex-wrap:wrap}
-.row b{display:block}.acts{display:flex;gap:6px}.acts button,.sm{padding:6px 12px;border-radius:8px;border:1px solid var(--bd);background:var(--card);color:var(--tx);cursor:pointer;font:inherit}
-.danger{color:#dc2626!important}.pill{font-size:.75rem;padding:2px 8px;border-radius:99px;background:var(--alt)}.pill.live{background:var(--ac2);color:#fff}
-.chk{display:flex!important;gap:8px;align-items:center}.chk input{width:auto;margin:0}.ur{display:flex;gap:8px;align-items:center}.ur input[type=file]{max-width:210px}
-#msg{min-height:1.5em;font-weight:600}.card+.card{margin-top:18px}
