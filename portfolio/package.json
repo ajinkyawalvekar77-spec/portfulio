@@ -1,0 +1,1 @@
+{"name":"ajinkya-portfolio","version":"1.0.0","private":true,"description":"Portfolio with secure admin dashboard (no dependencies)","scripts":{"start":"node server.js","set-password":"node scripts/set-password.js","test":"node scripts/test.js"},"engines":{"node":">=18"}}
